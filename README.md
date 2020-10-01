@@ -1,4 +1,4 @@
-# Dynatrace Tibco EMS ActiveGate Plugin
+# Dynatrace Tibco EMS Queues ActiveGate Plugin
 
 Coming soon.
 
