@@ -21,10 +21,6 @@ Following options can be set in the tenant:
 | | | |
 | | | |
 
-# Troubleshooting
 
-Coming soon.
-
-# Limitations
-
-Coming soon.
+# Disclaimer
+This ActiveGate extension is NOT SUPPORTED by Dynatrace. Please use at your own risk.
